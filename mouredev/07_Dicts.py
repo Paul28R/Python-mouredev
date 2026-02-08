@@ -12,7 +12,7 @@ my_dict = {
     "nombre":"brais", 
     "apellido":"moure", 
     "edad":35, 
-    "lenguajes":{"python", "swift", "kotiln"},
+    "lenguajes":{"python", "swift", "kotlin"},
     1:1.7
     }
 print(my_other_dict)
