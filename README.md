@@ -13,6 +13,10 @@ En este proyecto encontrarás ejercicios sobre:
 | :--- | :--- |
 | `00_hello.py` | Mi primer "Hola Mundo" |
 | `01_variables.py` | Practicando tipos y asignaciones |
+| `02_operators.py` | 
+| `03_strings.py` | Trabajando con strings |
+| `05_tuplas.py` | Trabajando con tuplas |
+| `06_sets.py` | Trabajondo con sets |
 | `04_lists.py` | Manipulación de listas |
 | `07_Dicts.py` | Trabajando con diccionarios |
 
