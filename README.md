@@ -19,6 +19,8 @@ En este proyecto encontrarás ejercicios sobre:
 | `06_sets.py` | Trabajondo con sets |
 | `04_lists.py` | Manipulación de listas |
 | `07_Dicts.py` | Trabajando con diccionarios |
+| `08_condicionales.py` | if, elif, else |
+| `09_loops.py` | for and while |
 
 ## 📈 Mi Progreso
 - [x] Instalación y configuración
