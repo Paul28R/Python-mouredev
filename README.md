@@ -21,6 +21,7 @@ En este proyecto encontrarás ejercicios sobre:
 | `07_Dicts.py` | Trabajando con diccionarios |
 | `08_condicionales.py` | if, elif, else |
 | `09_loops.py` | for and while |
+| `10_function.py` | def function |
 
 ## 📈 Mi Progreso
 - [x] Instalación y configuración
