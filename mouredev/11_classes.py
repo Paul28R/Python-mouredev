@@ -43,13 +43,19 @@ my_person2.walk()
 
 class Persone:
     def __init__(self, name, surname, alias ="Sin salida"):
-        self.full_name = f"{name} {surname} ({alias})"
+        self.full_name = f"{name} {surname} ({alias})" # Propiedad publica
+        self.__name = name # Propiedad privada
+       
+
+    def get_name(self):
+        return self.__name
 
     def walk(self):
         print(f"{self.full_name} está caminando")
 
 my_person2 = Persone("Brais", "Moure")
 print(my_person2.full_name)
+print(my_person2.get_name())
 my_person2.walk()
 
 my_other_person = Persone("Brais", "Moure", "Mouredev")
@@ -61,3 +67,7 @@ print(my_other_person.full_name)
 
 my_other_person.full_name = 666
 print(my_other_person.full_name)
+
+###
+### Geminis ###
+
